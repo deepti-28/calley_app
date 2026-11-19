@@ -1,7 +1,11 @@
-<<<<<<< HEAD
-# calley
+
+# calley app
 
 A new Flutter project.
+
+frontend- figma
+backend-node.js
+database-mongodb atlas
 
 ## Getting Started
 
