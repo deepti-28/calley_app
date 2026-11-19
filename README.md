@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # calley
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# calley_app
+>>>>>>> 5d4013d36bef71b008c9bfe3c49cf5d7ba0fc1a2
